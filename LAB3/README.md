@@ -49,7 +49,7 @@ iv.	Чи будуть однаковими топології дерев поб�
 
 #### 2.	За допомогою лабораторного макету побудувати випадковий орієнтований граф G={6,10}:
 
-![image]https://github.com/ZaiatsNazarii/nazariizaiats/blob/main/LAB3/10.png(https://github.com/ZaiatsNazarii/nazariizaiats/blob/main/LAB3/10.png)
+![image](https://github.com/ZaiatsNazarii/nazariizaiats/blob/main/LAB3/10.png(https://github.com/ZaiatsNazarii/nazariizaiats/blob/main/LAB3/10.png)
 
 i.	Побудувати дерево за алгоритмом обходу в ширину (BFS);
 * Порядок обходу: 1 2 3 5 6 4
