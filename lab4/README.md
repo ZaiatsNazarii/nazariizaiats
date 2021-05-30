@@ -8,7 +8,7 @@
 
 #### 1. За допомогою лабораторного макету побудувати випадковий неорієнтований зважений граф з V=6 та E=10 та побудувати дерево шляхів з вершини N за алгоритмом Дейкстри:
 
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab4/1.png)ъ
+![image](https://github.com/ZaiatsNazarii/nazariizaiats/blob/main/lab4/1.jpg)
 
 Згідно з алгоритмом Дейкстри найкоротший шлях від вершини 1 до вершини 6:
 1   2  3   4  5     6
@@ -22,7 +22,7 @@
 Отже, найкоротший маршрут буде через вершини 1-3-6 з вагою 5.
 
 #### 2. Для того ж графа побудувати дерево шляхів з вершини N за алгоритмом Беллмана-Форда:
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab4/2.png)
+![image](https://github.com/ZaiatsNazarii/nazariizaiats/blob/main/lab4/2.png)
 
 Згідно з алгоритмом Беллмана-Форда найкоротший шлях від вершини 1 до вершини 6
 (V1,V2)-2
