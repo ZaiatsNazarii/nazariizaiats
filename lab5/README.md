@@ -5,7 +5,7 @@
 ### Мета роботи: Навчитись знаходити максимальний потік між парою вузлів та визначати мінімальний переріз.
 
 ## Виконання роботи:
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab5/2.png)
+![image](https://github.com/ZaiatsNazarii/nazariizaiats/blob/main/lab5/3.jpg)
 
 
 #### 1) Для заданого графа G {8,10}, знайти шлях (вказати послідовність ребер) з максимальною пропускною здатністю (вказати якою) між вузлами 1 та 5. 
